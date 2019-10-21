@@ -1,0 +1,14 @@
+{
+  "name": "ek-engineer",
+  "version": "1.0.0",
+  "description": "A node module built to open my personal portfolio in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erinkelley27",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^7.0.0"
+  }
+}
