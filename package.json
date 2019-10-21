@@ -1,6 +1,6 @@
 {
   "name": "ek-engineer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node module built to open my personal portfolio in the browser.",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "open": "^7.0.0"
+  },
+  "bin": {
+    "ek-engineer": "./index.js"
   }
 }
